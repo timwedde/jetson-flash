@@ -1,3 +1,6 @@
+cache/
+.DS_Store
+delta/
 node_modules
 package-lock.json
 .nyc_output
